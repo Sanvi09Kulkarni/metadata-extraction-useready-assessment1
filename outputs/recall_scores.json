@@ -1,0 +1,26 @@
+{
+  "train_strict": {
+    "Aggrement Value": 0.6666666666666666,
+    "Aggrement Start Date": 0.6666666666666666,
+    "Aggrement End Date": 0.3333333333333333,
+    "Renewal Notice (Days)": 0.6666666666666666,
+    "Party One": 0.3333333333333333,
+    "Party Two": 0.5555555555555556
+  },
+  "train_adjusted": {
+    "Aggrement Value": 0.8888888888888888,
+    "Aggrement Start Date": 0.7777777777777778,
+    "Aggrement End Date": 0.4444444444444444,
+    "Renewal Notice (Days)": 0.8888888888888888,
+    "Party One": 0.4444444444444444,
+    "Party Two": 0.6666666666666666
+  },
+  "test": {
+    "Aggrement Value": 1.0,
+    "Aggrement Start Date": 1.0,
+    "Aggrement End Date": 0.75,
+    "Renewal Notice (Days)": 1.0,
+    "Party One": 0.75,
+    "Party Two": 0.25
+  }
+}
